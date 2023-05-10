@@ -3,4 +3,4 @@
 
 Repositório da aula
 
-Essa linha eu adicione tereto no site!
+Essa linha eu adicione direto no site!
